@@ -1,0 +1,5 @@
+23-06-2026
+  On second day of training we did operators in python. Mentor taught us all types of operators including key points of all the types. 
+  After that we were given file in which all the basic details were mentioned along with examples that helped us to understand better. After completing that we did one 
+  asssignment that was having arouns 20 programs to do on our own. 
+  We were given some programs to do as home task too. This was all for today.
