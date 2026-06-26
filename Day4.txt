@@ -1,0 +1,5 @@
+25-06-2026
+
+Today, we learned about conditional statements and looping statements in Python. We studied how to use `if`, `if-else`, and `elif` statements to make decisions in programs. We also learned about `for` and `while` loops, which are used to repeat tasks.
+
+Our mentor gave us some tasks in class to check whether we understood the topics clearly. At the end of the session, we were also given an assignment as homework to practice the concepts we learned today.
