@@ -1,0 +1,7 @@
+26-06-2026
+Today, we learned about Python data structures, including Lists, Tuples, Sets, and Dictionaries. We studied their features and learned about the different 
+functions and operations that can be performed on each of them.
+Our mentor explained how these data structures are used to store and organize data in different ways. We also practiced some examples in class to understand the
+concepts better.
+At the end of the session, we were given a homework assignment based on Lists, Tuples, Sets, and Dictionaries to improve our understanding and practice the topics
+learned today.
