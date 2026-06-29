@@ -1,5 +1,0 @@
-**29-06-2026**
-
-Today, we covered various Python programming problems related to lists, functions, and recursion. The session included topics such as palindrome checking, Fibonacci series, factorial calculation, list operations, and recursion.
-
-We solved several examples in class and learned different approaches to solving these problems. At the end of the session, we were given practice tasks as homework to improve our coding skills and understanding of the concepts.
