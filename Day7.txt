@@ -1,0 +1,4 @@
+30-06-2026
+Today, we learned about the concept of classes in Python and understood the basics of Object-Oriented Programming. We studied how to create classes and objects and how they are used to organize data and functions together.
+
+Our mentor explained the topic with examples and demonstrated how classes can be used in Python programs. To improve our understanding of the concept, we were given several programming tasks based on classes to solve and practice on our own.
