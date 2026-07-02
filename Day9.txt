@@ -1,0 +1,6 @@
+02-07-2026
+Today, we learned about Exception Handling in Python. We studied how to handle errors in a program using `try` and `except` blocks so that the program does not stop unexpectedly.
+
+Our mentor explained the concepts with examples and showed us how to use `try`, `except`, `else`, and `finally` statements in Python programs. We practiced some programs in class to understand the topic better.
+
+At the end of the session, we were given some tasks and homework based on exception handling.
