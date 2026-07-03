@@ -1,0 +1,7 @@
+03-07-2026
+
+Today, we learned about the NumPy library in Python. We studied how NumPy is used for numerical computations and how it makes working with arrays faster and easier compared to normal Python lists.
+
+Our mentor explained different concepts of NumPy, including creating arrays, accessing array elements, and using various built-in functions and operations on arrays. We also learned how NumPy is useful in the fields of Data Science, Machine Learning, and Artificial Intelligence.
+
+The concepts were explained with examples, and we practiced some programs during the session to understand the library better. At the end of the class, we were given some tasks and homework based on NumPy to strengthen our understanding and improve our coding skills.
