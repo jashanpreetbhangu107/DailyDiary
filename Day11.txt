@@ -1,0 +1,9 @@
+04-07-2026
+
+Topics Covered
+
+Today, we learned about the Pandas library in Python. We studied how Pandas is used for handling and analyzing data efficiently, especially when working with datasets in the fields of Data Science and Machine Learning.
+
+During the session, we learned how to create and work with data structures such as Series and DataFrames. We also performed various functions and operations on a dataset, including viewing data, selecting rows and columns, filtering data, and obtaining basic information about the dataset.
+
+Our mentor explained these concepts with practical examples, which helped us understand how Pandas can be used for data analysis and preprocessing. We were also given some tasks and practice exercises to strengthen our understanding of the library and its functions.
