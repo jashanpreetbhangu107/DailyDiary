@@ -1,5 +1,0 @@
-04-07-2026
-Today, we learned about the Pandas library in Python. Our mentor explained how Pandas is used to work with datasets and perform data analysis efficiently. We learned about Series and DataFrames and understood how they help in storing and managing data in a structured format.
-
-During the session, we performed various programs using Pandas on a dataset. We practiced different operations such as creating DataFrames, accessing rows and columns, filtering data, handling missing values, sorting data, grouping records, and applying different built-in functions. These practical exercises helped us understand how Pandas is used to analyze and manipulate data.
-At the end of the session, we were given some practice tasks based on Pandas  with dataset operations.
