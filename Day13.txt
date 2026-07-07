@@ -1,0 +1,4 @@
+07-07-2026
+Today, we learned about the Matplotlib library in Python. Our mentor explained that Matplotlib is a data visualization library used to create different types of graphs and charts, making it easier to understand and present data visually.
+
+During the session, we learned how to import the Matplotlib library, create plots, and customize graphs using different functions. We practiced plotting data with proper titles, axis labels, legends, grid lines, and different colors and markers. We also understood how data visualization plays an important role in Data Science and Machine Learning by helping analyze trends and patterns in datasets.
