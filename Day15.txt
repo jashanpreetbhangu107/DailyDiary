@@ -1,0 +1,11 @@
+09-07-2026
+
+Topics Covered
+
+Today, we learned about the Streamlit framework in Python. Our mentor explained how Streamlit is used to build interactive web applications for Data Science and Machine Learning projects with simple Python code.
+
+During the session, we learned how to install Streamlit, create a basic web application, add titles, text, buttons, input fields, and display outputs on the web page. We also understood how Streamlit can be used to quickly develop user-friendly interfaces for Python applications.
+
+We practiced creating simple Streamlit applications and explored different widgets such as text inputs, number inputs, buttons, and sliders. These hands-on exercises helped us understand how to build interactive applications without using HTML or CSS.
+
+At the end of the session, we were given practice tasks to create basic Streamlit applications and improve our understanding of the framework.
