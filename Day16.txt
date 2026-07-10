@@ -1,0 +1,4 @@
+10-07-2026 
+Topics Covered
+Today, we learned about Exploratory Data Analysis (EDA), which is an important step in Data Science and Machine Learning. Our mentor explained the purpose of EDA, its advantages, and the different steps involved in understanding and preparing a dataset before building a machine learning model.
+During the practical session, we performed EDA on the Titanic dataset using Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn. We explored the dataset by viewing its structure, summary statistics, and other basic information. We also created different visualizations to understand the distribution of data and the relationship between different features.
