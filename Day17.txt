@@ -1,0 +1,8 @@
+11-07-2026 
+Topics Covered
+Today, we revised the concepts of Exploratory Data Analysis (EDA) through practical exercises. We solved various practice questions based on the EDA techniques learned in the previous session and applied them to a dataset.
+During the practical session, we performed tasks such as:
+Loading and exploring the dataset.
+Viewing dataset information and summary statistics.
+Identifying and handling missing values.
+Creating different visualizations using Matplotlib and Seaborn.
