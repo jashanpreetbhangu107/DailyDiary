@@ -1,0 +1,9 @@
+15-07-2026
+
+Topics Covered
+
+Today, we were introduced to **Machine Learning** and learned about **Linear Regression**, which is a type of **Supervised Learning** algorithm. Our mentor explained the basic concepts of supervised learning, where a model is trained using labeled data to predict the output for new data.
+
+During the session, we studied how Linear Regression is used to identify the relationship between independent and dependent variables and make predictions based on that relationship. We also learned about the steps involved in building a Linear Regression model, including preparing the dataset, selecting input and output variables, training the model, and evaluating its performance.
+
+We performed practical implementation of Linear Regression using Python and applied the model to a sample dataset. This session gave us a basic understanding of predictive modeling and how supervised learning algorithms are used in real-world Machine Learning applications.
