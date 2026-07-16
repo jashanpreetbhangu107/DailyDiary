@@ -1,0 +1,9 @@
+16-07-2026 
+
+Topics Covered
+
+Today, we learned about **Logistic Regression**, which is a **Supervised Machine Learning** algorithm used for **classification problems**. Our mentor explained how Logistic Regression predicts categorical outcomes, such as **Yes/No**, **Pass/Fail**, or **0/1**, based on the input data.
+
+During the session, we studied the difference between **Linear Regression** and **Logistic Regression** and understood when each algorithm should be used. We learned how to prepare the dataset, encode categorical values, split the data into training and testing sets, train a Logistic Regression model, and evaluate its performance.
+
+We also implemented Logistic Regression using Python on a sample dataset and observed how the model makes predictions for classification tasks. This practical session helped us understand the basic workflow of building and evaluating a classification model in Machine Learning.
