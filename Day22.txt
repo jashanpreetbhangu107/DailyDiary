@@ -1,0 +1,9 @@
+17-07-2026 
+
+Topics Covered
+
+Today, we learned about the OpenCV library in Python, which is widely used for Computer Vision and Image Processing applications. Our mentor explained how OpenCV enables computers to capture, process, and analyze images and videos.
+
+During the practical session, we learned how to install and import the OpenCV library, read and display images, and perform basic image processing operations. We also explored functions for resizing, cropping, rotating, and converting images into different color formats such as grayscale.
+
+We practiced several OpenCV programs to understand how images can be manipulated using Python. These hands-on exercises helped us gain a basic understanding of computer vision concepts and their applications in Artificial Intelligence and Machine Learning. At the end of the session, we were given practice tasks to improve our understanding of OpenCV and image processing techniques.
