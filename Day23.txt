@@ -1,0 +1,9 @@
+18-07-2026 
+
+ Topics Covered
+
+Today, we learned about **Natural Language Processing (NLP)**, which is a branch of **Artificial Intelligence** that enables computers to understand, process, and analyze human language. Our mentor explained the importance of NLP and its applications in areas such as chatbots, language translation, sentiment analysis, spam detection, and text classification.
+
+During the session, we studied the basic concepts of NLP, including text preprocessing techniques such as tokenization, stop word removal, stemming, and lemmatization. We also learned how textual data is prepared before applying Machine Learning algorithms.
+
+The session included practical examples to help us understand how NLP is used to process text data. These activities gave us a basic understanding of working with natural language and its role in developing intelligent AI applications. At the end of the class, we were given practice tasks to strengthen our understanding of the concepts covered.
