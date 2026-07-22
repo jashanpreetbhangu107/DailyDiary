@@ -1,0 +1,9 @@
+20-07-2026 
+
+### Topics Covered
+
+Today, we performed **Natural Language Processing (NLP)** on a dataset using Python. The session focused on applying NLP techniques to preprocess and analyze textual data before using it for Machine Learning.
+
+During the practical session, we worked with a text dataset and performed various preprocessing steps, including cleaning the text, converting it to lowercase, removing punctuation and stop words, and preparing the data for analysis. We also explored different NLP techniques to extract meaningful information from the dataset and understand its contents.
+
+The practical implementation helped us understand the complete workflow of NLP, from text preprocessing to preparing data for Machine Learning models. These hands-on exercises improved our understanding of text analytics and the role of NLP in Artificial Intelligence applications. Our mentor also assigned us practice tasks to strengthen our understanding of NLP and text preprocessing techniques.
