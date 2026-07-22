@@ -1,0 +1,5 @@
+21-07-2026 
+
+Topics Covered
+
+Today, we started our project work as a part of the AI/ML training. We discussed the project requirements, planned the workflow, and started organizing the project structure. We learned how to manage project files and prepare the project repository for GitHub. The initial setup included creating folders, adding necessary files, and understanding the importance of version control for maintaining and tracking project progress. We also started implementing the basic components required for our project and discussed the upcoming development steps.
